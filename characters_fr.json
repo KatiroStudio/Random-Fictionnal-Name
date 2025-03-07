@@ -3,330 +3,329 @@
     {
       "firstName": "Luke",
       "lastName": "Skywalker",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Leia",
       "lastName": "Organa",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Han",
       "lastName": "Solo",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Anakin",
       "lastName": "Skywalker",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Padmé",
       "lastName": "Amidala",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Obi-Wan",
       "lastName": "Kenobi",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Lando",
       "lastName": "Calrissian",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Boba",
       "lastName": "Fett",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Mace",
       "lastName": "Windu",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Qui-Gon",
       "lastName": "Jinn",
-      "gender": "homme"
+      "gender": "male"
     }
   ],
   "Star Trek": [
     {
       "firstName": "James",
       "lastName": "Kirk",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Leonard",
       "lastName": "McCoy",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Jean-Luc",
       "lastName": "Picard",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "William",
       "lastName": "Riker",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Deanna",
       "lastName": "Troi",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Beverly",
       "lastName": "Crusher",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Worf",
       "lastName": "",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Sarek",
       "lastName": "",
-      "gender": "homme"
+      "gender": "male"
     }
   ],
   "Warcraft": [
     {
       "firstName": "Thrall",
       "lastName": "(Go'el)",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Jaina",
       "lastName": "Proudmoore",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Anduin",
       "lastName": "Wrynn",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Sylvanas",
       "lastName": "Windrunner",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Vol'jin",
       "lastName": "",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Tyrande",
       "lastName": "Whisperwind",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Arthas",
       "lastName": "Menethil",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Illidan",
       "lastName": "Stormrage",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Kael'thas",
       "lastName": "Sunstrider",
-      "gender": "homme"
+      "gender": "male"
     }
   ],
   "Walking Dead": [
     {
       "firstName": "Rick",
       "lastName": "Grimes",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Daryl",
       "lastName": "Dixon",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Carl",
       "lastName": "Grimes",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Michonne",
       "lastName": "Hawthorne",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Glenn",
       "lastName": "Rhee",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Maggie",
       "lastName": "Greene",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Negan",
       "lastName": "Smith",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Andrea",
       "lastName": "Harrison",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Shane",
       "lastName": "Walsh",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Carol",
       "lastName": "Peletier",
-      "gender": "femme"
+      "gender": "female"
     }
   ],
   "Le Seigneur des Anneaux": [
     {
       "firstName": "Frodo",
       "lastName": "Baggins",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Samwise",
       "lastName": "Gamgee",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Aragorn",
       "lastName": "son d'Arathorn",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Gandalf",
       "lastName": "le Gris",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Legolas",
       "lastName": "Greenleaf",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Gimli",
       "lastName": "fils de Glóin",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Boromir",
       "lastName": "",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Éowyn",
       "lastName": "",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Arwen",
       "lastName": "Undómiel",
-      "gender": "femme"
+      "gender": "female"
     }
   ],
   "Dragon Ball": [
     {
       "firstName": "Son",
       "lastName": "Goku",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Vegeta",
       "lastName": "",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Bulma",
       "lastName": "Brief",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Trunks",
       "lastName": "Brief",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Gohan",
       "lastName": "",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Krillin",
       "lastName": "",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Chi-Chi",
       "lastName": "",
-      "gender": "femme"
+      "gender": "female"
     }
   ],
   "Harry Potter": [
     {
       "firstName": "Harry",
       "lastName": "Potter",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Hermione",
       "lastName": "Granger",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Ron",
       "lastName": "Weasley",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Albus",
       "lastName": "Dumbledore",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Severus",
       "lastName": "Snape",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Tom",
       "lastName": "Riddle",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Minerva",
       "lastName": "McGonagall",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Ginny",
       "lastName": "Weasley",
-      "gender": "femme"
+      "gender": "female"
     },
     {
       "firstName": "Draco",
       "lastName": "Malfoy",
-      "gender": "homme"
+      "gender": "male"
     },
     {
       "firstName": "Luna",
       "lastName": "Lovegood",
-      "gender": "femme"
+      "gender": "female"
     }
   ]
 }
-
